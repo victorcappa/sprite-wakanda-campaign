@@ -39,7 +39,7 @@ Augmented reality web based experience for a Sprite and Marvel campaign, promoti
  
   <h3>Challenges</h3
    <p>
-Alpha video texturing, performance and mobile devices privacy permissions were the great challenges of this project, making it possible to learn about best practices for augmented reality on the web, as well as creating space to discover solutions. 
+Alpha video texturing, performance and mobile devices privacy permissions were the great challenges of this project, making it possible to learn about best practices for augmented reality on the web, as well as creating space to test and discover new solutions. 
    </p>
 
 
