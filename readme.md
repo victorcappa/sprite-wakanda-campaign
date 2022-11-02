@@ -43,9 +43,8 @@ Alpha video texturing, performance and mobile devices privacy permissions were t
    </p>
 
 
-  <img src="[https://user-images.githubusercontent.com/40408965/199372003-cb41446a-09d4-49cb-ba8e-3823af6e417b.gif]" alt="animated" />
+  <img src="https://user-images.githubusercontent.com/40408965/199372003-cb41446a-09d4-49cb-ba8e-3823af6e417b.gif" alt="animated" />
  
-
 
 
 </p>
