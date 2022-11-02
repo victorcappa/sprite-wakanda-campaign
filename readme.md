@@ -4,9 +4,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Client
-
-Coca Cola Company and Marvel Studios
+# Client Coca Cola Company and Marvel Studios
 
 
 <!-- PROJECT LOGO -->
