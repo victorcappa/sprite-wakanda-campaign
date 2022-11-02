@@ -4,8 +4,8 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<h2>ClientCoca</h2>
-<b>Cola Company and Marvel Studios</b>
+<h2>Client</h2>
+<p><b>Cola Company and Marvel Studios</b></p>
 
 
 <!-- PROJECT LOGO -->
@@ -17,16 +17,14 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">imaginAR</h3>
+<h3 align="center">Sprite Wakanda</h3>
 
   <p align="center">
 Augmented reality web based experience for a Sprite and Marvel campaign, promoting the second Black Panther movie
-
-
   </p>
+
  
- 
- <a href="https://youtu.be/x2DfRmgjm6A" target="_blank">Demo video<a/>
+ <a href="https://www.linkedin.com/posts/victor-cappa-50839788_zerolimits-themetaversefoundry-interactivepackaging-activity-6988599952075550720-9e3O?utm_source=share&utm_medium=member_desktop" target="_blank">Demo video<a/>
  
 </div>
 
@@ -37,13 +35,17 @@ Augmented reality web based experience for a Sprite and Marvel campaign, promoti
 
  
 <p align="left">
+ <p> Initially, the project required the use of the augmented reality engine 8th Wall, but in the end we used a-frame and three.js on top of html, css and plain javascript.</p>
  
+  <h3>Challenges</h3
+   <p>
+Alpha video texturing, performance and mobile devices privacy permissions were the great challenges of this project, making it possible to learn about best practices for augmented reality on the web, as well as creating space to discover solutions. 
+   </p>
+
+
   <img src="https://user-images.githubusercontent.com/40408965/180661370-850a3715-06c9-424d-b2a0-7faa97c60940.gif" alt="animated" />
 
 </p>
-
-<p> Initially, the project required the use of the augmented reality engine, 8th Wall, but in the end we used a-frame and three.js on top of html, css and plain javascript.
-Alpha video texturing, performance and mobile devices privacy permissions were the great challenges of this project, making it possible to learn about best practices for augmented reality on the web, as well as creating space to discover solutions. </p>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -52,11 +54,9 @@ Alpha video texturing, performance and mobile devices privacy permissions were t
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+All intellectual property is owned by Marvel Studios and Coca Cola Company
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -64,7 +64,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Reach out - <a href = "mailto: cappacurta@gmail.com.com">Victor Cappa</a>
 
 
-Share the project - [imaginAR](https://github.com/victorcappa/imaginAR)
+Share the project - [SpriteWakanda]([https://github.com/victorcappa/sprite-wakanda-campaign])
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
