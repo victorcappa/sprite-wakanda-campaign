@@ -4,6 +4,9 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+# Client
+
+Coca Cola Company and Marvel Studios
 
 
 <!-- PROJECT LOGO -->
@@ -18,7 +21,7 @@
 <h3 align="center">imaginAR</h3>
 
   <p align="center">
-Made with Unity and Niantic ARDK. Create and share AR content in creative ways.
+Augmented reality web based experience for a Sprite and Marvel campaign, promoting the second Black Panther movie
 
 
   </p>
@@ -39,6 +42,9 @@ Made with Unity and Niantic ARDK. Create and share AR content in creative ways.
   <img src="https://user-images.githubusercontent.com/40408965/180661370-850a3715-06c9-424d-b2a0-7faa97c60940.gif" alt="animated" />
 
 </p>
+
+<p> Initially, the project required the use of the augmented reality engine, 8th Wall, but in the end we used a-frame and three.js on top of html, css and plain javascript.
+Alpha video texturing, performance and mobile devices privacy permissions were the great challenges of this project, making it possible to learn about best practices for augmented reality on the web, as well as creating space to discover solutions. </p>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
