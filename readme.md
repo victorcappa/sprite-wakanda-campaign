@@ -65,10 +65,4 @@ All intellectual property is owned by Marvel Studios and Coca Cola Company
 
 Reach out - <a href = "mailto: cappacurta@gmail.com.com">Victor Cappa</a>
 
-
-Share the project - [SpriteWakanda]([https://github.com/victorcappa/sprite-wakanda-campaign])
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/victor-cappa-50839788/
