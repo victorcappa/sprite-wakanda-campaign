@@ -60,11 +60,14 @@ All intellectual property is owned by Marvel Studios and Coca Cola Company
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
 <!-- CONTACT -->
 ## Contact
 
 Reach out - <a href = "mailto: cappacurta@gmail.com.com">Victor Cappa</a>
+<a href="https://www.linkedin.com/in/victor-cappa-50839788/">Linkedin</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/victor-cappa-50839788/
