@@ -5,7 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <h2>Client</h2>
-<p><b>Cola Company and Marvel Studios</b></p>
+<p><b>Coca Cola Company and Marvel Studios</b></p>
 
 
 <!-- PROJECT LOGO -->
