@@ -23,9 +23,6 @@
   <p align="center">
 Augmented reality web based experience for a Sprite and Marvel campaign, promoting the second Black Panther movie
   </p>
-
- 
- <a href="https://www.linkedin.com/posts/victor-cappa-50839788_zerolimits-themetaversefoundry-interactivepackaging-activity-6988599952075550720-9e3O?utm_source=share&utm_medium=member_desktop" target="_blank">Demo video<a/>
  
 </div>
 
